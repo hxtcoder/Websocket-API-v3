@@ -1,4 +1,4 @@
-# OKEx webscoket V3 Sdk
+# OKEx websocket V3 Sdk
 ### Supported language: Nodejs
 
 ---
